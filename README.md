@@ -3,7 +3,7 @@ I'm **Tiago Carvalho Brito**, a future Fullstack Developer 🚀👨‍💻
 
 📍 Palmas - Tocantins, Brazil  
 🎓 Currently studying Analysis and Systems Development (ADS)  
-🧑‍💻 18 years old and passionate about technology  
+🧑‍💻 20 years old and passionate about technology  
 
 ---
 
