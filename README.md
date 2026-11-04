@@ -35,3 +35,11 @@ I'm organized, curious, and always eager to learn and collaborate. I believe tha
 
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagocarvalhobnb@gmail.com)  
 [![Instagram](https://img.shields.io/badge/@tiagoocarvalhoz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiagoocarvalhoz)
+
+## Projetos
+
+- **Plataforma CAU-TO**: plataforma de estudos para o concurso do CAU-TO. https://tiagocarvalhob.github.io/Plataforma-Cau-TO/
+- **Subarashi**: sistema de pedidos do restaurante. https://subarashi-f7hw.onrender.com/
+- **Tribo-Store**: https://tiagocarvalhob.github.io/Tribo-Store/
+- **Tela de Login**: https://tiagocarvalhob.github.io/Tela-de-Login/
+- **Trabalho de Faculdade**: projeto de inteligência artificial. https://tiagocarvalhob.github.io/Trabalho-Faculdade/
