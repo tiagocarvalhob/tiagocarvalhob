@@ -2,20 +2,20 @@
 I'm **Tiago Carvalho Brito**
 
 📍 Palmas - Tocantins, Brazil  
-🎓 Currently studying Analysis and Systems Development (ADS)  
-20 years old and passionate about technology  
+🎓 Law student  
+20 years old, and I enjoy technology  
 
 ---
 
-I'm a Front-End enthusiast building the foundation of my career as a developer. I have experience with **HTML**, **CSS**, and **JavaScript**, and I’m currently learning **Python** to expand my backend skills.
+I'm a student who likes programming and learns by building small projects. I'm not in a technology degree yet. So far I've been practicing **HTML**, **CSS**, and **JavaScript**, and I'm starting to learn **Python**.
 
-Besides programming, I master design tools like **Adobe Photoshop** and **Adobe Illustrator**, which I use to create professional visual content, logos, and UI assets with creativity and precision.
+I also use **Adobe Photoshop** and **Adobe Illustrator** for visual work.
 
-I'm organized, curious, and always eager to learn and collaborate. I believe that with consistency and passion, I can grow and build meaningful projects that make a difference.
+I'm still learning, one step at a time.
 
 ---
 
-## 💻 Skills
+## 💻 What I'm studying
 
 ### Front-End  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
