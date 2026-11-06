@@ -11,8 +11,6 @@ I'm a student who likes programming and learns by building small projects. I'm n
 
 I also use **Adobe Photoshop** and **Adobe Illustrator** for visual work.
 
-I'm still learning, one step at a time.
-
 ---
 
 ## 💻 What I'm studying
